@@ -1,10 +1,12 @@
-### Hello devs, welcome to my github profile 👋
+### Hello devs, welcome to my github profile 👋<br /><br />
 
-My name is Ana, I'm 28 years old, I've been working for almost 10 years in the IT area, where I started as an automated test analyst, quickly migrating to the development team where I found my true passion.
-I currently assume the position of architect on the team, dividing my time between the development and design of solutions 
-
-<div align="center">  
-  <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" align="center" />  
+<div>
+  <div align="left" style="display: inline-block">
+      My name is Ana, I'm 28 years old, I've been working for almost 10 years in the IT area, where I started as an automated test analyst, quickly migrating to the development team where I found my true passion. I currently assume the position of architect on the team, dividing my time between the development and design of solutions
+  </div>
+  <div align="right"  style="display: inline-block">  
+    <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" align="center" />  
+  </div>
 </div>
 
 <br/><br/>
