@@ -1,6 +1,6 @@
-## Hello guys, welcome to my github profile 👋
+### Hello devs, welcome to my github profile 👋
 
-### My name is Ana, I'm 28 years old, I've been working for almost 10 years in the IT area, where I started as an automated test analyst, quickly migrating to the development team where I found my true passion.
+My name is Ana, I'm 28 years old, I've been working for almost 10 years in the IT area, where I started as an automated test analyst, quickly migrating to the development team where I found my true passion.
 I currently assume the position of architect on the team, dividing my time between the development and design of solutions 
 
 <div align="center">  
@@ -48,7 +48,3 @@ I currently assume the position of architect on the team, dividing my time betwe
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanaoliveira&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theanaoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-<br/><br/>
-  
-![Snake animation](https://github.com/theanaoliveira/theanaoliveira/blob/output/github-contribution-grid-snake.svg)
