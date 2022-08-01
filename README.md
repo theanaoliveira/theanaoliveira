@@ -2,7 +2,7 @@
 
 <div>
   <div align="left" style="display: inline-block">
-      My name is Ana, I'm 28 years old, I've been working for almost 10 years in the IT area, where I started as an automated test analyst, quickly migrating to the development team where I found my true passion. I currently assume the position of architect on the team, dividing my time between the development and design of solutions
+      My name is Ana, I'm 29 years old, I've been working for almost 10 years in the IT area, where I started as an automated test analyst, quickly migrating to the development team where I found my true passion. I currently assume the position of architect on the team, dividing my time between the development and design of solutions
   </div>
   <div align="right"  style="display: inline-block">  
     <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" align="center" />  
@@ -12,7 +12,7 @@
 <br/><br/>
 
 - 🔭 I’m currently working on GlobalWeb Cloud as a system architect <br/><br/>
-- 🌱 I'm currently studying on FIAP - MBA Solution Architect <br/><br/>
+- 🌱 Graduated in FIAP - MBA Solution Architect <br/><br/>
 - ⚡I have solid knowledge in: <br/><br/>
 
 <div align="center">
