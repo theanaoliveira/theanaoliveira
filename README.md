@@ -1,52 +1,17 @@
-### Hello devs, welcome to my github profile 👋<br /><br />
+### Hello, devs! Welcome to my GitHub profile 👋
 
-<div>
-  <div align="left" style="display: inline-block">
-      My name is Ana, I'm 29 years old, I've been working for almost 10 years in the IT area, where I started as an automated test analyst, quickly migrating to the development team where I found my true passion. I currently assume the position of architect on the team, dividing my time between the development and design of solutions
-  </div>
-  <div align="right"  style="display: inline-block">  
-    <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" align="center" />  
-  </div>
-</div>
+I’m Ana, a 33-year-old System Architect with nearly 15 years of experience in IT.
 
-<br/><br/>
+I began my career in test automation and soon transitioned into software development. Today, I work across hands-on development and solution architecture, designing reliable, maintainable systems and helping turn business needs into practical technical solutions.
 
-- 🔭 I’m currently working on GlobalWeb Cloud as a system architect <br/><br/>
-- 🌱 Graduated in FIAP - MBA Solution Architect <br/><br/>
-- ⚡I have solid knowledge in: <br/><br/>
+I’m currently focused on expanding my functional programming and data-oriented design skills through Clojure, while also exploring its ecosystem and distributed-system concepts.
+
+- 🎓 MBA in Solution Architecture — FIAP
+- 🌱 Currently learning Clojure, Kafka, Kubernetes, Go, and Datomic
+- 💬 Interested in backend architecture, messaging, distributed systems, testing, and developer experience
+
+### Currently learning
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-</div>
-<br/><br/>
-
-- 🌱 I’m currently learning:<br/><br/>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" />
-</div>
-
-<br/><br/>
-
-- 📫 How to reach me:
-
-<div>
-  <a href="https://instagram.com/theanaoliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/theanaoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-<br/><br/>
-
-<div>
-<a href="https://github.com/theanaoliveira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanaoliveira&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theanaoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="40" height="40" alt="Clojure" />
 </div>
