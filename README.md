@@ -7,7 +7,7 @@ I began my career in test automation and soon transitioned into software develop
 I’m currently focused on expanding my functional programming and data-oriented design skills through Clojure, while also exploring its ecosystem and distributed-system concepts.
 
 - 🎓 MBA in Solution Architecture — FIAP
-- 🌱 Currently learning Clojure, Kafka, Kubernetes, Go, and Datomic
+- 🌱 Currently learning Clojure and Datomic
 - 💬 Interested in backend architecture, messaging, distributed systems, testing, and developer experience
 
 ### Currently learning
